@@ -1,4 +1,4 @@
-# Live Leaderboard
+# Light Leaderboard
 
 A lightweight, colourful, real-time leaderboard for Linux desktops. Written in Python using only tkinter — no dependencies beyond what comes with Python. Type names and scores, watch them re-rank instantly. That's it.
 
