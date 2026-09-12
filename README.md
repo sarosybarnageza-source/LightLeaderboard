@@ -2,8 +2,6 @@
 
 A lightweight, colourful, real-time leaderboard for Linux desktops. Written in Python using only tkinter — no dependencies beyond what comes with Python. Type names and scores, watch them re-rank instantly. That's it.
 
-![Candy theme](candy.png) ![Neon theme](neon.png)
-
 ## Features
 
 - **Real-time ranking** — scores update and rows re-animate the moment you hit Enter
